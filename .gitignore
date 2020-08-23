@@ -3,3 +3,4 @@
 /Hashing/node_modules
 /Salting/node_modules
 /OAuth/node_modules
+/OAuth/.env
